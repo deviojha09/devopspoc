@@ -1,0 +1,6 @@
+#!/bin/bash
+isexistapp=`ps -ef|grep tomcat`
+if [[ -n  $isExistApp ]]; then
+    service tomcat7 stop       
+fi
+
