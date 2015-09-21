@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
- - source: target/devopspoc-3.0-SNAPSHOT.war
+ - source: target/devopspoc-4.0-SNAPSHOT.war
    destination: /var/lib/tomcat7/webapps
 hooks:
   BeforeInstall:
