@@ -4,7 +4,7 @@
 
   <groupId>com.cts.devops</groupId>
   <artifactId>devopspoc</artifactId>
-  <version></version>
+  <version>5.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>devopspoc</name>
