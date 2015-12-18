@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body bgcolor="grey">
-        <h1>Hello World!version 5.0 Deployed</h1>
+        <h1>Hello World!version 6.0 Deployed</h1>
     </body>
 </html>
